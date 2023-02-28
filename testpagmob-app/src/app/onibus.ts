@@ -1,4 +1,5 @@
 export class Onibus {
+
   routeCode!: string;
   routeMnemonic!: string;
   companyId!: number;
