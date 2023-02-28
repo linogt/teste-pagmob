@@ -9,3 +9,7 @@ O projeto consiste na criação de um Back-End (Classe Service e Controller), ut
 ## Visualização do HTML 
 
 ![WhatsApp Image 2023-02-28 at 04 29 30](https://user-images.githubusercontent.com/75547468/221796938-2f3d7a66-0628-4c68-9991-b5a45c63d4b3.jpeg)
+
+## Autor
+
+Gabriel Lino Topa Garcia
