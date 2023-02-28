@@ -14,7 +14,6 @@ export class Onibus {
   vehicles!: Vehicles[];
 
 }
-/**ngIf="a.activeVehicles >= 1 || a.scheduledVehicles>=1 "*/
 
 export class Messages {
 
