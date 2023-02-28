@@ -10,7 +10,5 @@ import lombok.Setter;
 public class ServicesWrapper {
 	
 	private List<Services> services;
-
-	
 	
 }
