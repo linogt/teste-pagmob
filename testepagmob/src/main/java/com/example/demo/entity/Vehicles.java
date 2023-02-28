@@ -14,4 +14,5 @@ public class Vehicles {
 	private Integer prediction;
 	private Integer age;
 	private String type;
+
 }
