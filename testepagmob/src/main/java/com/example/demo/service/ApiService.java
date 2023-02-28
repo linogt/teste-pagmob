@@ -13,7 +13,7 @@ import com.example.demo.entity.ServicesWrapper;
 public class ApiService {
 	
 	public List<Services> buscarServices() {
-		String url = "https://api.cittamobi.com.br/m3p/js/prediction/stop/5208036,5195544";
+		    String url = "https://api.cittamobi.com.br/m3p/js/prediction/stop/5208036,5195544";
         RestTemplate restTemplate = new RestTemplate();
         ResponseEntity<ServicesWrapper> resp = restTemplate
         		.getForEntity(url, ServicesWrapper.class);
