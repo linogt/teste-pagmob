@@ -10,8 +10,14 @@ import { OnibusService } from './services/onibus.service';
 })
 
 export class AppComponent implements OnInit {
+  
+  arrival: String = "ARRIVAL";
+  departure: String = "DEPARTURE";
+
   onibus: Onibus[] = [];
+
   constructor(private service:OnibusService){};
+  
   ngOnInit():void{
     this.atualizar();
     setInterval(() => {
@@ -19,8 +25,6 @@ export class AppComponent implements OnInit {
     }, 30000);
   }
 
-  arrival: String = "ARRIVAL";
-  departure: String = "DEPARTURE";
   atualizar() {
     this.service.getOnibus()
       .subscribe(resposta=>this.onibus=resposta);
