@@ -1,10 +1,10 @@
 # teste-pagmob
 
+*Nota: Esse projeto é super especial para mim pois com ele consegui minha primeira oportunidade no mercado de trabalho como estagiário full stack na empresa Pagmob*
 
 ## Sobre o Projeto
 
 O projeto consiste na criação de um Back-End (Classe Service, Controller e Entidade) que consuma a rota 'https://api.cittamobi.com.br/m3p/js/prediction/stop/5208036,5195544' utilizando o SpringBoot REST e na construção de um Front-end utilizando o framework Angular, exibindo os dados dos veículos que chegam em determinada rota e atualizando esses dados a cada 30 segundos.
-
 
 ## Visualização do HTML 
 
