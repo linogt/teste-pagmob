@@ -1,6 +1,6 @@
 # teste-pagmob
 
-*Nota: Esse projeto é super especial para mim pois com ele consegui minha primeira oportunidade no mercado de trabalho como estagiário full stack na empresa Pagmob*
+*Nota: Esse projeto é especial para mim pois com ele consegui minha primeira oportunidade no mercado de trabalho como estagiário full stack na empresa Pagmob*
 
 ## Sobre o Projeto
 
